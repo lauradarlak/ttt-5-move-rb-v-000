@@ -14,5 +14,4 @@ def input_to_index(user_input)
 end
 
 def move (board, index, char = "X")
-  puts board[converted_input]
 end
